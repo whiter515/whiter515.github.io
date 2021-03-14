@@ -20,8 +20,6 @@ Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@163.com</a>
 
 Github: [whiterr](https://github.com/whiter515)
 
-抖音: 32303684
-
 ## 捐助我
 
 如果你喜欢我写的案例\~想支持作者，欢迎给作者捐赠~
