@@ -2,7 +2,7 @@
 layout: post
 title:  "迁移学习代码示例Mnist"
 date:   2020-04-17
-categories: Data Mining
+categories: Data-Mining
 comments: true
 ---
 迁移学习用来解决当某一任务A数据量不足时，通过另一相似任务B提供经验（也就是从任务B迁移到任务A）的问题。
