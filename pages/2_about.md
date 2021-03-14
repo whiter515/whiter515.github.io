@@ -8,7 +8,7 @@ permalink: /about/
 * content
 {:toc}
 
-## #作者
+## 作者
 
 你可以通过以下方式联系作者
 
@@ -22,7 +22,7 @@ Github: [whiterr](https://github.com/whiter515)
 
 抖音: 32303684
 
-## #捐助我
+## 捐助我
 
 如果你喜欢我写的案例\~想支持作者，欢迎给作者捐赠~
 
