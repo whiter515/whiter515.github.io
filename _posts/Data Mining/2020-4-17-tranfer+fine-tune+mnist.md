@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "迁移学习代码示例Mnist"
+date:   2020-04-17
+categories: Data Mining
+comments: true
+---
 迁移学习用来解决当某一任务A数据量不足时，通过另一相似任务B提供经验（也就是从任务B迁移到任务A）的问题。
 
 此处的情形是，在MNIST数据集中，通过对前5个数字(0-4)的学习迁移到后5个数字(5-9)的任务，在一些paper中似乎也有teacher和student任务的叫法。
