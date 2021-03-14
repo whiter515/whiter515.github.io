@@ -6,10 +6,7 @@ permalink: /projects/
 ---
 
 * content
-{:toc}
-
-# All my projects
-Following are projects started by me. 
+{:toc} 
 
 ## 云锋金融用户画像展示系统
 * Time: 2020.11-2020.12
