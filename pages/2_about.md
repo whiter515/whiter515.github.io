@@ -8,47 +8,40 @@ permalink: /about/
 * content
 {:toc}
 
-## About the site
-This is a personal website of LiXizhi, created with github and jekyll. 
-Create your own website is as easy as clone or fork a [template](https://github.com/LiXizhi/lixizhi.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
+## #作者
 
-### Admin tools
-* site [configuration file](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
-* Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
-   * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
-* Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
-* YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
-* markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
+你可以通过以下方式联系作者
 
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
+QQ: 1120815027
 
-    ---
-    layout: post
-    comments: true
-    # other options
-    ---
+wechat: 17801061612
 
-### Sample markdowns
-Click view source at the bottom of the page
+Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@gmail.com</a>
 
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
+Github: [whiterr](https://github.com/whiterr)
 
+抖音: 32303684
 
-## About me
+## #捐助我
 
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
+如果你喜欢我写的案例\~想支持作者，欢迎给作者捐赠~
 
+扫下方付款二维码
 
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
+<!-- <img style="display:inline-block" src="https://whiterr.github.io/images/wepay.png" width="30%" height="30%"/>
+<img style="display:inline-block" src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"/>
+ -->
+
+<table>
+<tr>
+<td align="center" valign="middle">
+<a><img src="https://whiterr.github.io/images/wepay.png" width="70%" height="30%" align = "middle"></a>
+</td>
+<td align="center" valign="middle">
+<a><img src="https://whiterr.github.io/images/alipay.jpeg" width="70%" height="30%" align = "middle"></a>
+</td>
+</tr>
+</table>
 
 * [Xizhi's old website before 2005](/oldsite2005/index.htm). 
 
