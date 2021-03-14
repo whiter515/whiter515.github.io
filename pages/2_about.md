@@ -16,9 +16,9 @@ QQ: 1120815027
 
 wechat: 17801061612
 
-Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@gmail.com</a>
+Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@163.com</a>
 
-Github: [whiterr](https://github.com/whiterr)
+Github: [whiterr](https://github.com/whiter515)
 
 抖音: 32303684
 
